@@ -9,4 +9,4 @@
 - [Fish Draw by LingDong-](https://github.com/LingDong-/fishdraw)
 
 ## Explanations
-- [The Continuity of Splines](https://www.youtube.com/watch?v=jvPPXbo87ds)
+- [The Continuity of Splines by Freya Holmér](https://www.youtube.com/watch?v=jvPPXbo87ds)
