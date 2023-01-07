@@ -4,3 +4,6 @@
 ## line drawing
 - [Line Draw by LingDong-](https://github.com/LingDong-/linedraw)
 - [Skeleton tracing by LingDong-](https://github.com/LingDong-/skeleton-tracing)
+
+## Procedural drawing
+- [Fish Draw by LingDong-](https://github.com/LingDong-/fishdraw)
