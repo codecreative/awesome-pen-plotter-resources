@@ -1,4 +1,5 @@
 # pen-plotter-resources
+Just getting started keeping track of some things that catch my eye
 
 
 ## line drawing
